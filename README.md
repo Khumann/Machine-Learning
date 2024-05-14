@@ -1,2 +1,2 @@
-# practicing ML cocepts
+# Practicing ML cocepts
 ### K-means
