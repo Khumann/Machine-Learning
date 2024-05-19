@@ -1,4 +1,5 @@
 # Practicing ML cocepts
-###  1. K-means
-###  2. Linear Regression, PCA and LDA
-###  3. SVM, NN & CNN
+###  1. Baye's Classifier from scratch 
+###  2. K-means
+###  3. Linear Regression, PCA and LDA
+###  4. SVM, NN & CNN
