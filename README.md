@@ -8,4 +8,4 @@
 ###  5. Linear Regression, PCA and LDA
 ###  6. Local Black Box Explanation 
  ( This project focuses on implementing and utilizing the Randomized Input Sampling for Explanation (RISE) method to explain the decisions of a complex pre-trained machine learning (ML) model used for object labeling in images. RISE is a local explanation technique that helps understand which parts of an input image contribute to the model's predictions, no external libraries are used for this method.)
-###  7. Support Vector Machine(SVM), Neural Networks(NN) & Convolutional Neural Networks (CNN)
+###  7. Support Vector Machine (SVM), Neural Networks (NN) & Convolutional Neural Networks (CNN)
