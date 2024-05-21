@@ -1,6 +1,7 @@
 # Practicing ML cocepts
 ###  1. Baye's Classifier from scratch 
-###  2. Fair ML metric (hands-on experience with various fairness metrics used to evaluate the fairness of machine learning models, Investigate insights into the fairness of data-driven decision-making algorithms, Critically appraise the use and limitations of different fairness metrics.)
+###  2. Fair ML metric 
+(hands-on experience with various fairness metrics used to evaluate the fairness of machine learning models, Investigate insights into the fairness of data-driven decision-making algorithms, Critically appraise the use and limitations of different fairness metrics.)
 ###  3.Global Explanation Black box model 
  ( This file  will introduce methods for explaining black-box models and provide hands-on experience in creating and analyzing both black-box and explainable models. The goal is to predict an outcome and reflect on the performance of these models while investigating how their predictions can be explained.) 
 ###  4. K-means
